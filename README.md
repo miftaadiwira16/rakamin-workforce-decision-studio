@@ -1,4 +1,4 @@
-## Workforce Lens
+# Workforce Lens
 
 Rakamin Product Manager Case Study
 
@@ -29,6 +29,15 @@ The prototype will be available at: https://miftaadiwira16.github.io/workforce-l
 - `medika_messy.csv` / `.json` — enterprise reality dataset
 - `medika_clean.csv` / `.json` — post-contextualization dataset
 - `docs/Rakamin_Product_Manager_Case_Study.pdf` — written submission
+
+## GitHub Pages setup
+
+1. Create a public repository named `workforce-lens`.
+2. Upload all files from this folder to the repository root.
+3. Open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Select `main` and `/ (root)`, then save.
+6. Open the live URL shown by GitHub Pages.
 
 ## Author
 
