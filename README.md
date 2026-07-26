@@ -1,3 +1,11 @@
+## Workforce Lens
+
+Rakamin Product Manager Case Study
+
+## Live prototype
+
+The prototype will be available at: https://miftaadiwira16.github.io/workforce-lens/
+
 ## What the prototype demonstrates
 
 - Messy versus contextualized workforce data
