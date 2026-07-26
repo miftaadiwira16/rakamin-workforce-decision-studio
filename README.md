@@ -1,13 +1,3 @@
-# Workforce Decision Studio
-
-Rakamin Product Manager Case Study — Medika Nusantara
-
-## Live prototype
-
-After GitHub Pages is enabled, the prototype will be available at:
-
-https://miftaadiwira16.github.io/rakamin-workforce-decision-studio/
-
 ## What the prototype demonstrates
 
 - Messy versus contextualized workforce data
