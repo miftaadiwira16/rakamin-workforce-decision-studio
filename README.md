@@ -33,4 +33,4 @@
 
 ## Author
 
-Mifta Adiwira Jati
+Mifta Adiwira Jati Jaka
